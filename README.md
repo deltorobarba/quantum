@@ -33,4 +33,5 @@
 
 ## Applications
 
-* [Quantum Finance](https://github.com/deltorobarba/quantum/blob/main/finance.ipynb)
+* [Quantum Finance](https://github.com/deltorobarba/quantum/blob/main/finance.ipynb) for portfolio optimization and risk management
+* [Quantum Chemistry](https://github.com/deltorobarba/chemistry/blob/main/quantum_groundstate.ipynb) for Ground-state energy estimation
