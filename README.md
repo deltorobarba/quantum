@@ -10,6 +10,11 @@
 
 <br>
 
+## Quantum Machine Learning
+
+* [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
+* [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
+
 ## Algorithms
 
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
@@ -27,11 +32,6 @@
 * [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
 * [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
-
-## Quantum Machine Learning
-
-* [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
-* [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 
 ## Applications
 
