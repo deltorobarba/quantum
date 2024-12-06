@@ -28,9 +28,10 @@
 * [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
 
-## Quantum Mechanics
+## Quantum Machine Learning
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
+* [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 
 ## Applications
 
