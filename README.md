@@ -33,7 +33,3 @@
 * [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
 
-## Applications
-
-* [Quantum Finance](https://github.com/deltorobarba/quantum/blob/main/finance.ipynb) for portfolio optimization and risk management
-* [Quantum Chemistry](https://github.com/deltorobarba/quantum/blob/main/quantum_groundstate.ipynb) for Ground-state energy estimation
