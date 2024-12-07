@@ -20,16 +20,11 @@
 
 ## Chapter 4 (Algorithms)
 
-* [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
-
+* [Quantum Diffusion](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
 
 ## Chapter 5 (Challenges)
 
-* [Dicke States](https://github.com/deltorobarba/quantum/blob/main/dicke.ipynb)
-* [Qubitization](https://github.com/deltorobarba/quantum/blob/main/qubitization.ipynb)
-* [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
-* [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
-* [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
+* [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
 
 ## Chapter 6 (Applications)
 
