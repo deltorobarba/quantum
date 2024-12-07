@@ -6,10 +6,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
-
-<br>
-
 ## Fundamentals
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
