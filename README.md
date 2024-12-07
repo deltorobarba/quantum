@@ -10,10 +10,13 @@
 
 <br>
 
+## Chapter 3 (Fundamentals)
+
+* [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
+* 
 ## Chapter 3 (Data)
 
 * [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
-* [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
 
 ## Chapter 4 (Algorithms)
 
