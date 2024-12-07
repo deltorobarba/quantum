@@ -22,12 +22,6 @@
 
 * [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
 
-## Chapter 5 (Challenges)
-
-* [Dequantization](https://github.com/deltorobarba/quantum/blob/main/dequantization.ipynb)
-
-## Chapter 6 (Applications)
-
 ## Appendix
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
