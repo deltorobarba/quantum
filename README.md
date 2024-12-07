@@ -2,8 +2,6 @@
 
 Alexander Del Toro Barba, PhD
 
-<br>
-
 ## Fundamentals
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
