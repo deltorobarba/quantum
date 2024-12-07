@@ -13,7 +13,7 @@
 ## Fundamentals
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
-* 
+
 ## Data
 
 * [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
