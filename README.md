@@ -15,12 +15,12 @@ Alexander Del Toro Barba, PhD
 ## Algorithms
 
 * [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
+* [HHL algorithm](https://github.com/deltorobarba/quantum/blob/main/hhl.ipynb)
 
 ## Appendix
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
 * [Grover's Search](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
 * [Shor's Algorithm](https://github.com/deltorobarba/quantum/blob/main/shor.ipynb)
-* [HHL algorithm](https://github.com/deltorobarba/quantum/blob/main/hhl.ipynb)
 
 
