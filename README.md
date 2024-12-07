@@ -1,6 +1,6 @@
 # Quantum Machine Learning
 
-### Alexander Del Toro Barba, PhD
+Alexander Del Toro Barba, PhD
 
 <br>
 
