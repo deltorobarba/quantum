@@ -10,7 +10,7 @@
 
 <br>
 
-## Chapter 3 (Fundamentals)
+## Chapter 2 (Fundamentals)
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
 * 
@@ -20,11 +20,11 @@
 
 ## Chapter 4 (Algorithms)
 
-* [Quantum Diffusion](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
+* [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
 
 ## Chapter 5 (Challenges)
 
-* [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
+* [Dequantization](https://github.com/deltorobarba/quantum/blob/main/dequantization.ipynb)
 
 ## Chapter 6 (Applications)
 
