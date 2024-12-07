@@ -1,4 +1,4 @@
-# Quantum Computing
+# Quantum Machine Learning
 
 ### Alexander Del Toro Barba, PhD
 
