@@ -10,15 +10,15 @@
 
 <br>
 
-## Chapter 2 (Fundamentals)
+## Fundamentals
 
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
 * 
-## Chapter 3 (Data)
+## Data
 
 * [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 
-## Chapter 4 (Algorithms)
+## Algorithms
 
 * [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
 
