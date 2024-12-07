@@ -10,12 +10,12 @@
 
 <br>
 
-## Quantum Machine Learning
+## Chapter 3 (Data)
 
 * [Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 * [Expectation Value](https://github.com/deltorobarba/quantum/blob/main/expectation.ipynb)
 
-## Algorithms
+## Chapter 4 (Algorithms)
 
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
@@ -25,11 +25,14 @@
 * [Data Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 
 
-## Components
+## Chapter 5 (Challenges)
 
 * [Dicke States](https://github.com/deltorobarba/quantum/blob/main/dicke.ipynb)
 * [Qubitization](https://github.com/deltorobarba/quantum/blob/main/qubitization.ipynb)
 * [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
 * [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
+
+## Chapter65 (Applications)
+
 
