@@ -33,6 +33,6 @@
 * [CERN](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb)
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
 
-## Chapter65 (Applications)
+## Chapter 6 (Applications)
 
 
