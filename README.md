@@ -9,6 +9,7 @@ Alexander Del Toro Barba, PhD
 * [HHL algorithm](https://github.com/deltorobarba/quantum/blob/main/hhl.ipynb)
 
 ## Fundamentals
+These are personal notes from last years on quantum computing
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
 * [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
 * [Grover's Search](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
