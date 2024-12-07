@@ -21,11 +21,6 @@
 ## Chapter 4 (Algorithms)
 
 * [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
-* [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
-* [Grover's Search](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
-* [Shor's Algorithm](https://github.com/deltorobarba/quantum/blob/main/shor.ipynb)
-* [HHL algorithm](https://github.com/deltorobarba/quantum/blob/main/hhl.ipynb)
-* [Data Encoding](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 
 
 ## Chapter 5 (Challenges)
@@ -37,5 +32,13 @@
 * [Chebyshev Polynomials](https://github.com/deltorobarba/quantum/blob/main/chebyshev.ipynb)
 
 ## Chapter 6 (Applications)
+
+## Appendix
+* [Quantum Fourier Transform](https://github.com/deltorobarba/quantum/blob/main/fourier.ipynb)
+* [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
+* [Grover's Search](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
+* [Shor's Algorithm](https://github.com/deltorobarba/quantum/blob/main/shor.ipynb)
+* [HHL algorithm](https://github.com/deltorobarba/quantum/blob/main/hhl.ipynb)
+* [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
 
 
