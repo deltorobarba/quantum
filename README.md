@@ -14,6 +14,7 @@ These are personal notes from last years on quantum computing
 * [Quantum Phase Estimation](https://github.com/deltorobarba/quantum/blob/main/phase.ipynb)
 * [Grover's Search](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
 * [Shor's Algorithm](https://github.com/deltorobarba/quantum/blob/main/shor.ipynb)
-* [Quantum Information](https://github.com/deltorobarba/quantum/blob/main/quantum.ipynb)
+* [CERN 2022](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb) Conference on Quantum Technologies for High-Energy Physics
+* [Quantum Mechanics](https://github.com/deltorobarba/quantum/blob/main/quantum.ipynb) Basics for Quantum Algorithms
 
 
