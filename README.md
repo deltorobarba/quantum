@@ -23,6 +23,8 @@
 * [Shor's algorithm](https://github.com/deltorobarba/quantum/blob/main/shor.ipynb)
 * [Grover's search algorithm](https://github.com/deltorobarba/quantum/blob/main/grover.ipynb)
 * [Superdense Coding](https://github.com/deltorobarba/quantum/blob/main/superdense.ipynb)
+* [QFT-based Subroutines](https://github.com/deltorobarba/quantum/blob/main/qft_based.ipynb)
+* [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
 * [CERN 2022](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb) 
 
 ## Quantum Machine Learning
