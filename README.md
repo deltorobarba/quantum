@@ -25,10 +25,11 @@
 * [Superdense Coding](https://github.com/deltorobarba/quantum/blob/main/superdense.ipynb)
 * [QFT-based Subroutines](https://github.com/deltorobarba/quantum/blob/main/qft_based.ipynb)
 * [Quantum Arithmetic](https://github.com/deltorobarba/quantum/blob/main/arithmetic.ipynb)
-* [CERN 2022](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb) 
+* [Variational Quantum Eigensolver](https://github.com/deltorobarba/quantum/blob/main/vqe.ipynb)
 
 ## Quantum Machine Learning
 * [Encoding (Embedding)](https://github.com/deltorobarba/quantum/blob/main/encoding.ipynb)
 * [Quantum Fisher Information](https://github.com/deltorobarba/quantum/blob/main/qfim.ipynb)
+* [CERN 2022](https://github.com/deltorobarba/quantum/blob/main/cern.ipynb) 
 
 
