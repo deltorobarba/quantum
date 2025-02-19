@@ -1,4 +1,4 @@
-# Quantum
+# Quantum Computing
 
 ### Alexander Del Toro Barba, PhD
 
@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/sciences_2000.png" alt="sciences">
+<img src="https://raw.githubusercontent.com/deltorobarba/repo/master/quantum_000.jpg" alt="quantum">
 
 <br>
 
